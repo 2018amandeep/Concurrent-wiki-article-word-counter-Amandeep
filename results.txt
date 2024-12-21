@@ -1,0 +1,5 @@
+https://en.wikipedia.org/wiki/Python_(Programming_language), 658559 
+https://en.wikipedia.org/wiki/Article_15, 41852 
+https://en.wikipedia.org/wiki/Concurrency_(computer_science), 125125 
+https://en.wikipedia.org/wiki/Distributed_computing, 254948 
+https://en.wikipedia.org/wiki/Erlang_(programming_language), 225111 
